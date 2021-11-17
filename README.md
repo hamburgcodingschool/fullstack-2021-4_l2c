@@ -1,5 +1,5 @@
-# {{ Course Name }}
-## Full Stack Course - {{ Start Date }}
+# Learn to Code
+## Full Stack Course - 2021-4
 
 ### ✏️ Homework
 
