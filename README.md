@@ -3,7 +3,7 @@
 
 ### ✏️ Homework
 
-- Homework will be posted here
+- [Homework 1](./homework/hw_1.md)
 
 ### 📄 Docs
 
