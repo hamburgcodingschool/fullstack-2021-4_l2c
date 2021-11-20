@@ -68,7 +68,7 @@ Modify Exercise 4 so that the program asks the user for a number `n` and gives t
 
 
 ## Exercise 7
-Beachwalk Hotel 🏖 <br />
+### Beachwalk Hotel 🏖 <br />
 Let's calculate how much a hotel stay costs at the fantastic Beachwalk Hotel
 
 ### 7.1
@@ -92,7 +92,7 @@ Only the room is affected by the discount. Breakfast price stays the same.
 ```
 
 ### 7.4
-Deluxe Suites<br />
+Deluxe Suites <br />
 Continue from the last exercise.<br />
 Ask the user which type of room they would like<br />
 >  Base price per room:<br />
@@ -101,7 +101,7 @@ Ask the user which type of room they would like<br />
 >  Deluxe suites: 150€<br />
 
 ### 7.5
-Extra guest<br />
+Extra guest <br />
 Continue from the last exercise.<br />
 Ask the user how many guests will stay in the room (1 or 2)<br />
 > Add 10€ per night for an extra guest (Before discount)
