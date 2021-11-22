@@ -14,11 +14,16 @@
 
 let x = [23, 12, 4, 2, 5, 6, 10, 5, 2, 1, 34, 3, 5];
 
+let counter = 0;
 for (let i = 0; i < x.length; i++) {
     console.log(i + ": " + x[i]);
+    if (x[i] == 5) {
+        // console.log("YAY it's a FIVE!!!!!!");
+        counter ++;
+    }
 }
-
-console.log("The number 5 shows up `n` times");
+// console.log(counter);
+console.log("The number 5 shows up " + counter + " times");
 
 // EXERCISE:
 // 1 - Copy the above code, make sure it's working and you understand it
