@@ -16,7 +16,7 @@ function isPrime(number) {
             return false;
         }
     }
-    return num > 1;
+    return number > 1;
 }
 
 let number = 1; // Ask the user later
