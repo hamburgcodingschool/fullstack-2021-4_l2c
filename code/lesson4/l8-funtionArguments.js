@@ -21,19 +21,3 @@ function someOtherFunction(a, b) {
 someOtherFunction(4, 2);
 someOtherFunction(10, 10);
 someOtherFunction(5);
-
-function rectanglePerimeter(width, length) {
-
-}
-
-function circleArea(radius) {
-
-}
-
-
-
-// HOMEWORK
-// 1 - Create a function that calculates the perimeter of a rectangle
-// 2 - Create a function that calculates the area of a rectangle
-// 3 - Create a function that calculates the circumference of a circle
-// 4 - Create a function that calculates the area of a circle
