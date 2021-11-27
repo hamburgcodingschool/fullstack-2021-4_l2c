@@ -5,6 +5,7 @@
 
 - [Homework 1](./homework/hw_1.md)
 - [Homework 2](./homework/hw_2.md)
+- [Homework 3](./homework/hw_3.md)
 
 ### 📄 Docs
 
