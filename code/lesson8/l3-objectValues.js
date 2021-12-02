@@ -42,3 +42,25 @@ console.log(people[2].city);
 // I want to know the average of all ages
 // the City of the oldest
 // the Name of the youngest
+
+let totalAges = 0;
+
+let oldestPerson = people[0];
+let youngestPerson = people[0];
+
+for (let i = 0; i < people.length; i++) {
+    totalAges += people[i].age;
+
+    if (people[i].age > oldestPerson.age) {
+        oldestPerson = people[i];
+    }
+
+    if (people[i].age < youngestPerson.age) {
+        youngestPerson = people[i];
+    }
+}
+
+const averageAge = totalAges / people.length;
+console.log(`The average age is ${averageAge}`);
+console.log(`The oldest person is from ${oldestPerson.city}`);
+console.log(`The youngest person is named ${youngestPerson.name}`);
